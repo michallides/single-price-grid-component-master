@@ -26,16 +26,16 @@ Users should be able to:
 
 #### Screenshot desktop
 
-![Desktop screenshot](./screenshots/desktop_shot.png.jpg)
+![Desktop screenshot](./screenshots/desktop_shot.png)
 
 #### Screenshot mobile
 
-![Mobile screenshot](./screenshots/mobile_shot.png.jpg)
+![Mobile screenshot](./screenshots/mobile_shot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/michallides/single-price-grid-component-master_FM](https://github.com/michallides/single-price-grid-component-master_FM)
+- Live Site URL: [https://michallides.github.io/single-price-grid-component-master_FM/](https://michallides.github.io/single-price-grid-component-master_FM/)
 
 ### Built with
 
